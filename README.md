@@ -6,7 +6,8 @@ This is a work in progress. Maybe with a very slow progress (🧐), but still !
 I am Thomas, a blockchain developer, working at [@Blockchainpartner](https://github.com/Blockchainpartner) on some awesome projects !   
 I am spending a huge amout of my time coding. Sometimes with `Node` and `C`, but most of the time with `Go`, `React`, `Next.js` and `Solidity` 🔥 !
 
-
+### What do I do ?
+Working on various subject, from my [clients' websites](https://vie-legia-conseil.com/) to [Semaphore](https://github.com/appliedzkp/semaphore) with *zkSNARKs* 🔐, and not to mention some personnal project, with an E2E encrypted photo gallery 🌇 to go without the non-privacy-concerned ones, or a simple cryptocurrencies portfolio ₿ !
 
 
 ### What makes me tick
