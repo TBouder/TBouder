@@ -22,7 +22,10 @@ I want to fight for integrity, security, privacy, and a way of life that is not 
 
 *You want to contact me? Tell me this secret password: `pink-alpaga`. You will then have my full attention !*
 
+
+
 <p float="left">
   <img src="https://user-images.githubusercontent.com/9974362/125344796-02e32580-e358-11eb-8977-34d3dc0bdf8c.png" width="350" />
+  &nbsp;  &nbsp;  &nbsp;  &nbsp;
   <img src="https://user-images.githubusercontent.com/9974362/125344799-037bbc00-e358-11eb-9522-32074a990ce3.png" width="350" /> 
 </p>
